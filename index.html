@@ -1,12 +1,211 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 <title>Trang xinh đẹp</title>
-</head>
-<body>
+<style>
+p {
+    border: 3px solid FireBrick;
+    padding: 30px;
+}
 
-<h1>Wellcome</h1>
-<p>Have a good day ^^ </p>
+div.p01{
+	background-color:DarkSalmon;
+	color:white;
+	padding:0px;}
 
+#demo{background-color:BurlyWood; }
+
+
+div.header
+{
+	padding:50px;
+	background-image:url("http://www.photos-public-domain.com/wp-content/uploads/2012/06/red-speckled-paper-texture-600x400.jpg");
+}
+
+div#footer
+{
+	padding:20px;
+	background-image:url("http://www.photos-public-domain.com/wp-content/uploads/2012/06/red-speckled-paper-texture-600x400.jpg");
+}
+
+</style>
+
+<style>
+a:link {
+    color: DarkRed;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color:LightSeaGreen ;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: CadetBlue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+</style>
+
+<body id="demo">
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 30;
+    padding: 0;
+    overflow: hidden;
+    background-color:IndianRed;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:pink;
+}
+
+</style>
+
+
+<ul>
+  <li><a href="https://www.facebook.com/luckystar.nany" target="_blank">Facebook</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+
+<div class="header">
+<h1 title="Trang thật đẹp." style="font-family:verdana;text-align:center;color:white; ">&#9784 Website của Trang &#9770</h1>
+<hr />
+</div>
+
+<h2 style="color:FireBrick;margin-left:30px" >Introduction</h2>
+
+<div class="p01">
+<p style="font-size:130%;"><i>
+<img src="http://2.bp.blogspot.com/-l0Kzlg_FaBI/TohRt608xpI/AAAAAAAARgg/BDFe7sVkUL4/s1600/12096.gif" alt="Hình bị lỗi" style="float:right;width:120px; height=120px">
+Hello everybody. <br /> 
+My name is Trang. I come from Quy Nhơn City.<br /> 
+I have some best friends. They are Bim, Mihi, Lulu, MiMi.<br />
+Nice to see you !
+</i></p>
+</div>
+
+<style>
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color:Gainsboro;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:FloralWhite;
+}
+table#t01 th {
+    background-color:DarkSlateGray;
+    color: white;
+}
+</style>
+
+<table id="t01" style="float:right;margin-right:60px;width:400px; height=100px">
+<caption style="color:LightSeaGreen"><b>Thông tin cá nhân</b></caption>
+<tr>
+	<th>STT</th>
+	<th>Mục</th>
+	<th>Thông tin</th>
+</tr>
+<tr>
+	<td>1</td>
+	<td>Tên</td>
+	<td>Đỗ Thị Hương Trang</td>
+</tr>
+<tr>
+	<td>2</td>
+	<td>Năm sinh</td>
+	<td>1995</td>
+</tr>
+<tr>
+	<td>3</td>
+	<td>Cân nặng</td>
+	<td>51 kg</td>
+</tr>
+<tr>
+	<td>4</td>
+	<td>Chiều cao</td>
+	<td>160 cm</td>
+</tr>
+</table>
+
+
+<iframe src="http://kenh14.vn" style="text-align:center;height:300px;width:800px"></iframe> 
+<br />
+<br />
+
+<form autocomplete="on">
+<fieldset>
+<legend style="font-size:160%;">Điền thông tin của bạn:</legend><br />
+  First name:<br />
+  <input type="text" name="firstname">
+  <br />
+  Last name:<br />
+  <input type="text" name="lastname"><br /><br />
+Your birthday:<br />
+<input type="date" name="bday"><br /><br />
+  Gender: <br />
+  <input type="radio" name="gender" value="Male" checked>Male<br />
+  <input type="radio" name="gender" value="Female" checked>Female<br />
+  <input type="radio" name="gender" value="Other" checked>Other<br /><br />
+Your email:<br />
+ <input type="email" name="email"><br /><br />
+  Do you like me?<br />
+  <select name="like">
+    <option value="Yes">Yes</option>
+    <option value="No">No</option>
+    <option value="Other">Other</option>
+  </select>
+<br /><br />
+<textarea name="message" rows="10" cols="100">Your opinions...</textarea>
+  <br>
+  <input type="submit" value="Submit">
+</fieldset>
+</form>
+
+
+<a href="#Home"> Back to top </a>
+<br />
+<br />
+
+<script>
+function myFunction() {
+    document.getElementById("demo").style.background="Brown"; 
+ 
+}
+</script>
+
+<button type="button" onclick="myFunction()" style="background-color:AntiqueWhite;">Click me to change style!</button>
+
+<div id="footer">
+<pre>luckystar.nany@gmail.com</pre>
 </body>
+
 </html>
