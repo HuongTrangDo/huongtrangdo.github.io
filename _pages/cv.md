@@ -9,56 +9,75 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Objective
+Data Scientist with experience in building and validating predictive classification models, data processing workflows, and model performance monitoring using Python, R, and SQL. Focused on applying machine learning to solve practical, real-world problems.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Viet Phu Payment Services Support Corporation  
+**Data Scientist**  
+*08/2022 – Present*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Developed and maintained predictive scorecard models used in production for customer credit risk decisioning  
+- Performed data cleaning, transformation, and feature engineering for model development and reporting  
+- Developed Python and SQL scripts supporting automated data preparation, scoring, and recurring model monitoring  
+- Conducted model validation, backtesting, and stability monitoring using GINI, AUC, and PSI metrics  
+- Containerized model execution workflows using Docker to ensure reproducibility across environments  
+- Authored technical documentation (TMD, BRD) to support governance, compliance, and audit reviews  
+- Built Power BI dashboards to communicate model performance, stability, and portfolio insights  
+
+---
+
+### FE CREDIT  
+**Data Scientist**  
+*01/2022 – 08/2022*
+
+- Operated and maintained batch scoring pipelines for Behavioral Score models  
+- Validated and debugged Python/SQL scripts to ensure compliance with business and technical requirements  
+- Performed exploratory data analysis and monitored score distribution stability  
+- Assisted in preparing model documentation, including Technical Model Document (TMD) and Business Requirements Document (BRD)  
+
+---
+
+### Viet Phu Payment Services Support Corporation  
+**Data Analyst**  
+*12/2020 – 12/2021*
+
+- Built SQL-based ETL flows and automated reporting pipelines  
+- Performed exploratory analysis on large operational datasets to support business and risk decisions  
+- Delivered insights to non-technical teams through clear visualizations  
+
+---
+
+### Transaction Technologies Limited  
+**Business Analyst – Tester**  
+*2016 – 08/2018*
+
+- Performed functional and integration testing for securities trading systems used by brokerage firms  
+- Collaborated with development teams to identify, document, and resolve system issues  
+- Prepared user manuals and provided training sessions for partner companies on system usage  
+- Authored and maintained test cases and Software Requirements Specifications (SRS) to ensure system quality and compliance  
+
+---
+
+## Education
+
+### John von Neumann Institute (JVN)  
+*MSc in Applied Mathematics*  
+*2018 – 2020*
+
+### University of Economics Ho Chi Minh City  
+*BSc in Mathematical Finance*  
+*2013 – 2017*
+
+---
+
+## Skills
+
+- **Programming:** Python, R, SQL  
+- **Frameworks & Tools:** Docker, Power BI, Jupyter Notebook  
+- **Machine Learning:** Predictive modeling, supervised & semi-supervised learning, statistical modeling  
+- **Data Workflow:** Data cleaning, transformation, feature engineering  
+- **Documentation & Collaboration:** Technical documentation (TMD, BRD), teamwork, cross-functional communication  
