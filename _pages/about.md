@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Huong Trang.
-
 I work with data, build models, and try to make things work in practice.
 
 With a background in credit risk modeling, I am now exploring Artificial Intelligence and how it can move beyond theory into real-world applications.
