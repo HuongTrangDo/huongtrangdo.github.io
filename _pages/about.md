@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-A data scientist building a transition into AI for Healthcare and BioAI. My professional background centers around statistical modeling, machine learning, and developing end-to-end predictive systems that operate at scale. I began my journey in applied ML through credit-risk modeling, where I learned how to work with complex tabular data, design interpretable models, evaluate real-world performance, and build reliable pipelines that serve thousands of users daily.
+Hi, I'm Huong Trang.
 
-Over time, I realized that what motivates me the most is not just modeling for business outcomes, but understanding how machine learning can contribute to human health, medical decision-making, and early diagnosis. This led me to explore BioAI — a field where ML is not only technically challenging but also meaningful in its impact. I became especially fascinated by data types that capture human physiology, such as biosignals and spectral data, and the unique modeling challenges they present: small datasets, noise, high variability, and the need for interpretability.
+I work with data, build models, and try to make things work in practice.
 
-I’m now actively developing the foundations for a long-term path in computational healthcare, combining my strengths in structured data modeling with new knowledge in biomedical data, signal processing, and responsible AI. My goal is to grow into someone who can bridge applied ML engineering with scientific research, working on problems that genuinely benefit clinicians, researchers, and patients.
+With a background in credit risk modeling, I am now exploring Artificial Intelligence and how it can move beyond theory into real-world applications.
+
+I’m interested in building practical systems, learning continuously, and turning ideas into something that actually works.
 
 What I Do
 ------
