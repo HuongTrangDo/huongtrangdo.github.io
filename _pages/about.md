@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Trang personal websites"
+title: "Trang personal website"
 author_profile: true
 redirect_from: 
   - /about/
