@@ -41,3 +41,23 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom styles */
+.page__content h2 {
+  color: #e75480 !important;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.page__content h3 {
+  color: #c06c84;
+}
+
+a {
+  color: #e75480;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: #ff85a2;
+}
