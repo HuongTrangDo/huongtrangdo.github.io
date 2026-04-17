@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Huong Trang"
+title                    : "Data Scientist"
 title_separator          : "-"
 name                     : &name "Huong Trang"
 description              : &description "Data Scientist transitioning into AI, interested in applying machine learning to real-world problems."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "huongtrangdo/huongtrangdo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Huong Trang"
   pronouns         : "she/her"  
   bio              : "Data Scientist with experience in credit risk modeling, currently exploring AI applications in real-world systems."
   location         : "Ho Chi Minh City, Vietnam"
   employer         : #"University"
   uri              : # URL
-  email            : "dothihuonhtrang@gmail.com" 
+  email            : "dothihuongtrang@gmail.com" 
 
   # Academic websites
   academia         : # URL
