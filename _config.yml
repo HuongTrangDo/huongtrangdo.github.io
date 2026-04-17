@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Huong Trang"
-  pronouns         : "Hi, I'm Trang!"  
+  # pronouns         : "She/her"  
   bio              : "Welcome to my space — a small, quiet corner where I keep the things I learn, build, and care about."
   location         : "Ho Chi Minh City, Vietnam"
   employer         : #"University"
