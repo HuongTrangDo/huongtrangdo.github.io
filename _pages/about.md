@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Trang personal website"
+title: "Hi, I’m Trang."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I’m Trang.
-======
 A data scientist building a transition into AI for Healthcare and BioAI. My professional background centers around statistical modeling, machine learning, and developing end-to-end predictive systems that operate at scale. I began my journey in applied ML through credit-risk modeling, where I learned how to work with complex tabular data, design interpretable models, evaluate real-world performance, and build reliable pipelines that serve thousands of users daily.
 
 Over time, I realized that what motivates me the most is not just modeling for business outcomes, but understanding how machine learning can contribute to human health, medical decision-making, and early diagnosis. This led me to explore BioAI — a field where ML is not only technically challenging but also meaningful in its impact. I became especially fascinated by data types that capture human physiology, such as biosignals and spectral data, and the unique modeling challenges they present: small datasets, noise, high variability, and the need for interpretability.
@@ -16,7 +14,7 @@ Over time, I realized that what motivates me the most is not just modeling for b
 I’m now actively developing the foundations for a long-term path in computational healthcare, combining my strengths in structured data modeling with new knowledge in biomedical data, signal processing, and responsible AI. My goal is to grow into someone who can bridge applied ML engineering with scientific research, working on problems that genuinely benefit clinicians, researchers, and patients.
 
 What I Do
-======
+------
 Develop ML models (logistic regression, GBDT, explainability with SHAP)  
 - Build automated pipelines with Python/R/SQL, Docker, and monitoring systems  
 - Work with structured/tabular data at scale  
@@ -25,7 +23,7 @@ Develop ML models (logistic regression, GBDT, explainability with SHAP)
 These experiences shaped my strengths in modeling, MLOps foundations, and systematic thinking — all of which translate well into biomedical AI.
 
 What I Care About
-======
+------
 I’m deeply interested in how AI can help with:
 
 - Understanding biosignals (ECG, EEG, PPG, EMG)  
@@ -57,6 +55,6 @@ I want to work on problems involving:
 
 In the long run, I want to contribute to responsible, human-centered AI in medicine.
 
-**Beyond Work**
+**Beyond Work:**
 I enjoy learning languages, creative AI projects, and documenting my learning journey through writing and small experiments.
 
