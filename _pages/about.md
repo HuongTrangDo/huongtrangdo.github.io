@@ -13,13 +13,5 @@ With a background in credit risk modeling, I am now exploring Artificial Intelli
 
 I’m interested in building practical systems, learning continuously, and turning ideas into something that actually works.
 
-What I Do
-------
-Develop ML models (logistic regression, GBDT, explainability with SHAP)  
-- Build automated pipelines with Python/R/SQL, Docker, and monitoring systems  
-- Work with structured/tabular data at scale  
-- Run experiments, evaluate models, and design reliable data workflows  
-
-These experiences shaped my strengths in modeling, MLOps foundations, and systematic thinking — all of which translate well into biomedical AI.
 
 
