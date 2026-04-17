@@ -23,7 +23,7 @@ repository               : "huongtrangdo/huongtrangdo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Huong Trang"
   pronouns         : "she/her"  
   bio              : "Data Scientist with experience in credit risk modeling, currently exploring AI applications in real-world systems."
