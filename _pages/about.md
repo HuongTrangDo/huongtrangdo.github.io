@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I work with data, build models, and try to make things work in practice.
+I’m a Data Scientist with experience in credit risk modeling and predictive analytics.
+I’ve worked on building and deploying scorecard models, automating data workflows, and monitoring model performance in production.
 
-With a background in credit risk modeling, I am now exploring Artificial Intelligence and how it can move beyond theory into real-world applications.
+Recently, I’ve been expanding into AI, with a focus on applying machine learning to real-world problems.
 
-I’m interested in building practical systems, learning continuously, and turning ideas into something that actually works.
+This site showcases some of the projects I’ve worked on and what I’m currently learning.
 
 
 
