@@ -9,7 +9,7 @@ authors: "Trang Do"
 venue: 'Personal Project'
 image: "/images/projects/image_ascore1.png"
 
-project_page: "#"
+project_page: /projects/2012-03-01-Ascore-B2B2C
 paper: "#"
 ---
 
