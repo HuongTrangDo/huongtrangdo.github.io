@@ -119,9 +119,9 @@ This scaling framework allows:
 
 ## Model Result
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 20px 0;">
-  <img src="{{ '/images/projects/ascore_roc_train.png' | relative_url }}" style="width: 100%; height: 160px; object-fit: cover;">
-  <img src="{{ '/images/projects/ascore_roc_test.png' | relative_url }}" style="width: 100%; height: 160px; object-fit: cover;">
-  <img src="{{ '/images/projects/ascore_roc_validation.png' | relative_url }}" style="width: 100%; height: 160px; object-fit: cover;">
+  <img src="{{ '/images/projects/ascore_roc_train.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
+  <img src="{{ '/images/projects/ascore_roc_test.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
+  <img src="{{ '/images/projects/ascore_roc_validation.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
 </div>
 
 **Discrimination (Gini):**
