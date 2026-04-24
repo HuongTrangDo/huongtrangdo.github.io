@@ -80,7 +80,9 @@ Default threshold (DPD 60+) is selected based on roll rate analysis, while a 9-m
 
 ## Feature Engineering & Selection
 
-From 456 variables, a structured selection process was applied:
+![Long-list variables]({{ "/images/projects/ascore_longlist_chart.png" | relative_url }})
+
+From 81 variables, a structured selection process was applied:
 
 * Remove variables with >40% missing values
 * Remove highly correlated variables (>80%)
