@@ -17,19 +17,54 @@ This site showcases some of the projects I’ve worked on and what I’m current
 
 ---
 
-## Featured Projects
-
 {% include base_path %}
 
+## Featured Projects
+
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
-{% for post in sorted_projects limit:3 %}
-  {% include archive-single.html %}
+
+{% for project in sorted_projects limit:3 %}
+<div style="display: flex; margin-bottom: 25px;">
+
+  <!-- Thumbnail -->
+  <div style="flex: 0 0 120px; margin-right: 15px;">
+    <img src="{{ base_path }}{{ project.image }}" style="width: 100%; border-radius: 6px;">
+  </div>
+
+  <!-- Content -->
+  <div>
+    <h3 style="margin-bottom: 5px;">
+      <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+    </h3>
+
+    {% if project.authors %}
+      <p style="margin: 2px 0; font-size: 0.95em;">
+        {{ project.authors }}
+      </p>
+    {% endif %}
+
+    {% if project.venue %}
+      <p style="margin: 2px 0; font-size: 0.95em;">
+        {{ project.venue }}
+      </p>
+    {% endif %}
+
+    <!-- Links -->
+    <p style="margin-top: 5px; font-size: 0.9em;">
+      {% if project.project_page %}
+        <a href="{{ project.project_page }}">Project Page</a>
+      {% endif %}
+      {% if project.code %}
+        | <a href="{{ project.code }}">Code</a>
+      {% endif %}
+      {% if project.paper %}
+        | <a href="{{ project.paper }}">Paper</a>
+      {% endif %}
+    </p>
+  </div>
+
+</div>
 {% endfor %}
-
-<p>
-  <a href="{{ base_path }}/projects/"><strong>View all projects →</strong></a>
-</p>
-
 ---
 
 ## Latest Posts
