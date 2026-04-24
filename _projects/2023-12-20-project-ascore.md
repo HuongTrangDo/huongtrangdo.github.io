@@ -55,7 +55,7 @@ The dataset is split into:
 - Train/Test: 70/30  
 - Separate OOT dataset for temporal validation
 
-  ![Sample distribution and default rate]({{ "/images/projects/project_ascore_sample_sum.jpg" | relative_url }})
+  ![Sample distribution and default rate]({{ "/images/projects/project_ascore_sample_sum.JPG" | relative_url }})
 
 A time-based design is applied:
 - **Observation window**: historical data prior to scoring (T0)  
