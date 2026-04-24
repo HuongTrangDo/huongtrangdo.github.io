@@ -19,7 +19,7 @@ This site showcases some of the projects I’ve worked on and what I’m current
 
 {% include base_path %}
 
-## Featured Projects
+## Latest Projects
 
 {% assign sorted_projects = site.projects | sort: 'date' | reverse %}
 
