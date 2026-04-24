@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hi, I'm Trang !
 
 I’m a Data Scientist with experience in credit risk modeling and predictive analytics.  
 I’ve worked on building and deploying scorecard models, automating data workflows, and monitoring model performance in production.
