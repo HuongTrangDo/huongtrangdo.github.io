@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "Hi, I’m Trang."
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
