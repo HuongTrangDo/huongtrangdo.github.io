@@ -25,3 +25,11 @@ This site showcases some of the projects I’ve worked on and what I’m current
 - [{{ post.title }}]({{ post.url | relative_url }})  
   {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+{% include base_path %}
+## Latest Projects
+
+{% assign sorted_projects = site.projects | sort: 'date' | reverse %}
+{% for post in sorted_projects limit:3 %}
+  {% include archive-single.html %}
+{% endfor %}
