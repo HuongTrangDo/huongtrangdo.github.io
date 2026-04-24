@@ -58,7 +58,8 @@ The dataset is split into:
 ![Sample distribution and default rate]({{ "/images/projects/ascore_sample_sum.JPG" | relative_url }})
 
 A time-based design is applied:
-![ Observation & Performance window]({{ "/images/projects/ascore_performance_window_chart.png" | relative_url }})
+
+![Observation & Performance window]({{ "/images/projects/ascore_performance_window_chart.png" | relative_url }})
 
 - **Observation window**: historical data prior to scoring (T0)  
 - **Performance window**: 9 months after first order to determine default status  
