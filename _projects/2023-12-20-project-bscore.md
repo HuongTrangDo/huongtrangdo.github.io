@@ -1,14 +1,12 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Applying Behavioral Credit Scoring to B2B2C Models in Vietnam"
 collection: projects
 type: "Projects"
-permalink: /projects/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "Ho Chi Minh City, Vietnam"
+permalink: /projects/2012-03-01-Bscore-B2B2C
+date: 2023-12-20
 
 authors: "Trang Do"
-venue: '#'
+venue: 'Personal Project'
 image: "/images/project1.png"
 
 project_page: "#"
