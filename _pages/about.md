@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Hi, I’m Trang."
 author_profile: true
