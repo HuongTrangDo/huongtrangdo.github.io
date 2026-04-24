@@ -7,7 +7,7 @@ date: 2023-12-20
 
 authors: "Trang Do"
 venue: 'Personal Project'
-image: "/images/project1.png"
+image: "/images/projects/image_bscore1.png"
 
 project_page: "#"
 code: "#"
