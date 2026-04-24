@@ -123,6 +123,9 @@ This scaling framework allows:
   <img src="{{ '/images/projects/ascore_roc_test.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
   <img src="{{ '/images/projects/ascore_roc_validation.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
 </div>
+![Score output - Train]({{ "/images/projects/ascore_gini_train.PNG" | relative_url }})
+![Score output - Test]({{ "/images/projects/ascore_gini_test.PNG" | relative_url }})
+![Score output - Validation]({{ "/images/projects/ascore_gini_validation.PNG" | relative_url }})
 
 **Discrimination (Gini):**
 
