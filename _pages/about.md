@@ -16,7 +16,6 @@ Recently, I’ve been expanding into AI, with a focus on applying machine learni
 
 This site showcases some of the projects I’ve worked on and what I’m currently learning.
 
----
 
 {% include base_path %}
 
@@ -66,7 +65,7 @@ This site showcases some of the projects I’ve worked on and what I’m current
 
 </div>
 {% endfor %}
----
+
 
 ## Latest Posts
 
