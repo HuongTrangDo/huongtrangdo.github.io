@@ -53,7 +53,9 @@ An additional **out-of-time (OOT) dataset** covering **April 2023 – July 2023*
 
 The dataset is split into:
 - Train/Test: 70/30  
-- Separate OOT dataset for temporal validation  
+- Separate OOT dataset for temporal validation
+
+  ![Sample distribution and default rate]({{ "/images/project_ascore_sample_sum.jpg" | relative_url }})
 
 A time-based design is applied:
 - **Observation window**: historical data prior to scoring (T0)  
