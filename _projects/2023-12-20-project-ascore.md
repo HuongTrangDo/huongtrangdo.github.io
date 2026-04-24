@@ -56,13 +56,6 @@ The dataset is split into:
 - Train/Test: 70/30  
 - Separate OOT dataset for temporal validation
 
-A time-based design is applied:
-
-![Observation & Performance window]({{ "/images/projects/ascore_performance_window_chart.png" | relative_url }})
-
-- **Observation window**: historical data prior to scoring (T0)  
-- **Performance window**: 9 months after first order to determine default status  
-
 ---
 
 ## Target Definition
