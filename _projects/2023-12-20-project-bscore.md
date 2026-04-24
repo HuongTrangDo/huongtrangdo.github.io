@@ -10,7 +10,6 @@ venue: 'Personal Project'
 image: "/images/projects/image_bscore1.png"
 
 project_page: "#"
-code: "#"
 paper: "#"
 ---
 
