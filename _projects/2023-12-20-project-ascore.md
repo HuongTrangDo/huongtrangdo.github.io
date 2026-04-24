@@ -116,6 +116,9 @@ Model outputs (probability of default) are transformed into a standardized credi
 
 A reference point is defined such that a score of **540 corresponds to ~33% default probability**, ensuring alignment between score and underlying risk.  
 
+![Score range after scaling]({{ "/images/projects/ascore_scaling_pd_range.png" | relative_url }})
+
+
 This scaling framework allows:
 - Clear interpretation of risk changes  
 - Additive score contributions from features  
