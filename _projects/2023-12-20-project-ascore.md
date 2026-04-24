@@ -41,6 +41,7 @@ This project aims to develop a robust credit scoring model for Ascore that can r
 ---
 
 ## Data
+![Sample distribution and default rate]({{ "/images/projects/ascore_sample_sum.JPG" | relative_url }})
 
 The dataset consists of real-world lending data collected from a B2B2C payment platform in Vietnam (01/2022 - 03/2023), totaling approximately **14K records**, with an overall default rate of ~30%.  
 
@@ -54,8 +55,6 @@ An additional **out-of-time (OOT) dataset** covering **April 2023 – July 2023*
 The dataset is split into:
 - Train/Test: 70/30  
 - Separate OOT dataset for temporal validation
-
-![Sample distribution and default rate]({{ "/images/projects/ascore_sample_sum.JPG" | relative_url }})
 
 A time-based design is applied:
 
