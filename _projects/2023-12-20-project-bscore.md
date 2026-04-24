@@ -13,9 +13,6 @@ project_page: "#"
 paper: "#"
 ---
 
-# Applying Behavioral Credit Scoring to B2B2C Models in Vietnam
-
----
 ## Overview
 
 Developed a behavioral credit scoring model for a B2B2C lending platform in Vietnam to predict 3-month probability of default (PD) for active customers.
