@@ -118,6 +118,7 @@ This scaling framework allows:
 ---
 
 ## Model Result
+**Discrimination (Gini):**
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin: 20px 0;">
   <img src="{{ '/images/projects/ascore_roc_train.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
   <img src="{{ '/images/projects/ascore_roc_test.png' | relative_url }}" style="width: 100%; height: 180px; object-fit: cover;">
@@ -126,10 +127,6 @@ This scaling framework allows:
 ![Score output - Train]({{ "/images/projects/ascore_gini_train.png" | relative_url }})
 ![Score output - Test]({{ "/images/projects/ascore_gini_test.png" | relative_url }})
 ![Score output - Validation]({{ "/images/projects/ascore_gini_validation.png" | relative_url }})
-
-**Discrimination (Gini):**
-
-* Gini > 80% across train, test, and validation
 
 **Stability (PSI):**
 
@@ -141,6 +138,9 @@ This scaling framework allows:
 
 **Risk segmentation:**
 
+![Bad rate after cutoff]({{ "/images/projects/ascore_badrate_cutoff_ot.png" | relative_url }})
+
+![Bad rate overtime]({{ "/images/projects/ascore_badrate_overtime.png" | relative_url }})
 * Reduced default rate from ~10% → 2.4%
 
 **Credit policy optimization:**
