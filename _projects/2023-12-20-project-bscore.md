@@ -1,7 +1,7 @@
 ---
 title: "Applying Behavioral Credit Scoring to B2B2C Models in Vietnam"
 collection: projects
-type: "Projects"
+type: "Credit scoring"
 permalink: /projects/2012-03-01-Bscore-B2B2C
 date: 2023-12-20
 
